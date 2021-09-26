@@ -19,7 +19,7 @@
 <div class="container mt-5 bg-primary">
 <div class="row">
 <div class="col-12 col-md">
-<div class="d-flex flex-column justify-content-start align-items-center"><img src="assets/img/hongkong.webp" class="img-fluid" width="600px"></div>
+<img src="assets/img/hongkong.webp" class="img-fluid" width="600px">
 
 </div>
 <div class="col-12 offset-md-0 col-md">
