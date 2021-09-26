@@ -1,0 +1,11 @@
+{
+  "direct": true,
+  "type": "mysql",
+  "connection": {
+    "host": "localhost",
+    "port": 9906,
+    "user": "root",
+    "password": "3fDXr49j",
+    "database": "Wappler-PHPTest-2021Sept2"
+  }
+}

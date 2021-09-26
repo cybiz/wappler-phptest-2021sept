@@ -1,0 +1,50 @@
+{
+  "projectName": "Wappler-PHPTest-2021Sept2",
+  "styleFile": "/css/style.css",
+  "assetsFolder": "/assets",
+  "designFramework": "bootstrap5",
+  "frameworks": [
+    {
+      "name": "bootstrap5",
+      "type": "cdn"
+    },
+    {
+      "name": "bootstrap_icons",
+      "type": "cdn"
+    },
+    {
+      "name": "fontawesome_5pro",
+      "type": "cdn"
+    },
+    {
+      "name": "appConnect",
+      "type": "local"
+    }
+  ],
+  "projectServerModel": "PHP",
+  "activeTarget": "Wappler-PHPTest-2021Sept2",
+  "useRouting": true,
+  "addBase": true,
+  "routingHandler": "apache",
+  "projectType": "web",
+  "targets": [
+    {
+      "webServerPort": 8100,
+      "webServerLang": "PHP",
+      "PHPVersion": "7.3.x",
+      "databaseType": "mysql",
+      "databasePort": 9906,
+      "mySQLVersion": "8.0.x",
+      "mySQL_rootPassword": "3fDXr49j",
+      "mySQL_databaseName": "Wappler-PHPTest-2021Sept2",
+      "mySQL_username": "db_user",
+      "mySQL_password": "YflG3FTO",
+      "targetType": "docker",
+      "webServer": "apache",
+      "name": "Wappler-PHPTest-2021Sept2",
+      "remoteURL": "http://localhost:8100",
+      "noSampleData": true,
+      "dockerProjectName": "web-wappler-phptest-2021sept2"
+    }
+  ]
+}
