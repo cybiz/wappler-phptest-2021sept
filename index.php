@@ -18,7 +18,7 @@
     <?php include 'nav.php'; ?>
 <div class="container mt-5 bg-primary">
 <div class="row">
-<div class="col-12 col-md">
+<div class="col-12 col-md d-flex flex-md-column justify-content-md-start align-items-md-center">
 <img src="assets/img/hongkong.webp" class="img-fluid" width="600px">
 
 </div>
