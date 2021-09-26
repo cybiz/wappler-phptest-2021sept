@@ -16,7 +16,7 @@
 
 <body is="dmx-app" id="index">
     <?php include 'nav.php'; ?>
-<div class="container mt-5 bg-primary">
+<div class="container mt-5 bg-warning">
 <div class="row">
 <div class="col-12 col-md">
 <img src="assets/img/hongkong.webp" class="img-fluid" width="600px">
